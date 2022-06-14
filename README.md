@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Devin 👋
+
+I'm a multi-disciplinary senior designer based in NYC, specializing in software design and engineering. Focused on next-generation tools for creativity and work.
+
+Currently, I am a designer + engineer at Replit. Before that, I co-founded Manhattan Hydraulics, a product studio within Garden3D and a partner to Sanctuary Computer and XXIX. I was also Head of Product at Index, and a product designer at Palantir, Quora, Friends of the Web, and 64 Robots.
+
 
 <!--
 **devinhalladay/devinhalladay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
